@@ -1,0 +1,42 @@
+* {
+    font-family: Helvetica;
+}
+body {
+    margin: auto 50px;
+    padding: 40px;
+}
+
+h1 {
+   background-image: url('motoimages/pattern.webp');
+   color: khaki;
+   font-size: 100px;
+   text-align: center;
+}
+
+h1, h2, span {
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+span {
+    color: blue;
+}
+
+#brushes {
+    background-color: mediumspringgreen;
+}
+
+#frames {
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
+}
+
+.items {
+    color: white;
+}
